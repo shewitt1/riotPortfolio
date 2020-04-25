@@ -4,9 +4,9 @@ import background from './media/background.png';
 
 function App() {
   return (
-    <div className="Desktop">
+    <div className="desktop">
     <img src={background} id='desktopBackground'></img>
-      <div className="ClientBase">
+      <div className="clientBase">
       
       </div>
     </div>
